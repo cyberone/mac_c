@@ -22833,7 +22833,7 @@ o=A.a9N(null,A.ako(B.ac,null,null,B.kJ),B.lw,!0)
 $.a5.toString
 n=$.as()
 m=n.guG()
-q=A.aAA(new A.wS(A.an(["/",new A.ajs(),"/checkOTP",new A.ajt(),"/awaiting_admission",new A.aju(),"/deck_choose",new A.ajv(),"/field",new A.ajw()],t.N,t.Ab),m,A.aFZ(),"Placeholder App",p,o,B.wp,null),q)
+q=A.aAA(new A.wS(A.an(["/",new A.ajs(),"/checkOTP",new A.ajt(),"/awaiting_admission",new A.aju(),"/deck_choose",new A.ajv(),"/field",new A.ajw()],t.N,t.Ab),m,A.aFZ(),"Mac Client",p,o,B.wp,null),q)
 if($.a5==null)A.am5()
 p=$.a5
 p.toString
